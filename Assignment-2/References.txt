@@ -1,0 +1,7 @@
+1. https://www.analyticsvidhya.com/blog/2021/11/how-sklearns-tfidfvectorizer-calculates-tf-idf-values/
+2. https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html#sklearn.feature_extraction.text.TfidfVectorizer.transform
+3. https://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction
+4. https://stackoverflow.com/questions/35109424/how-to-make-tf-idf-matrix-dense
+5. https://www.delftstack.com/howto/python/cosine-similarity-between-lists-python/
+6. https://blog.paperspace.com/mean-average-precision/
+7. https://www.geeksforgeeks.org/inverted-index/#:~:text=Inverted%20index%20is%20to%20allow,for%20example%20in%20search%20engines.
